@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0633-sum-of-square-numbers](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
