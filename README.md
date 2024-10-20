@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0155-min-stack) |
 ## Backtracking
 |  |
 | ------- |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
