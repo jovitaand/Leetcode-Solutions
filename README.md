@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/jovitaand/Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/jovitaand/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jovitaand/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/jovitaand/Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
 |  |
 | ------- |
