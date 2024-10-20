@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0136-single-number) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
