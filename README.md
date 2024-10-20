@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2383-add-two-integers](https://github.com/jovitaand/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
