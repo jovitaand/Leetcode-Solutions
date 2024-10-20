@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0067-add-binary) |
 ## Design
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0136-single-number) |
 ## Union Find
 |  |
