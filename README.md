@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
