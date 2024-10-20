@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [1205-defanging-an-ip-address](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1769-get-maximum-in-generated-array](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1769-get-maximum-in-generated-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Binary Search
 |  |
 | ------- |
