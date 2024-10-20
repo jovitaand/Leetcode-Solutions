@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1018-largest-perimeter-triangle](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1168-duplicate-zeros](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1168-duplicate-zeros) |
+| [1580-shuffle-the-array](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Binary Search
 |  |
