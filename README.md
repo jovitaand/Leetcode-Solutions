@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
