@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
+| [1168-duplicate-zeros](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1168-duplicate-zeros) |
 ## String
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0898-transpose-matrix](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1018-largest-perimeter-triangle](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1168-duplicate-zeros](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1168-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
