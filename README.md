@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Recursion
 |  |
