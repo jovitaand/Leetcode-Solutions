@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/jovitaand/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/jovitaand/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1769-get-maximum-in-generated-array](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1769-get-maximum-in-generated-array) |
 | [2048-build-array-from-permutation](https://github.com/jovitaand/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/jovitaand/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Design
 |  |
 | ------- |
