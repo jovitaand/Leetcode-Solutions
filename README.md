@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1635-number-of-good-pairs](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1635-number-of-good-pairs](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Quickselect
 |  |
 | ------- |
