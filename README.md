@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
+| [1205-defanging-an-ip-address](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
 ## Dynamic Programming
 |  |
 | ------- |
