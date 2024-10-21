@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0898-transpose-matrix](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
