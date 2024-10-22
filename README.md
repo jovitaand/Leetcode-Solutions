@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0822-unique-morse-code-words) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jovitaand/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/jovitaand/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
 | ------- |
